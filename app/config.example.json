@@ -1,0 +1,12 @@
+{
+  "database": {
+    "db": "tt_crawler",
+    "host": "192.168.10.10",
+    "port": "3306",
+    "user": "homestead",
+    "password": "secret"
+  },
+  "extra": {
+    "largest_page": 20
+  }
+}
